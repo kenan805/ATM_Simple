@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ATM_Simple.exe
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ATM_Simple.deps.json
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ATM_Simple.runtimeconfig.json
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ATM_Simple.runtimeconfig.dev.json
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ATM_Simple.dll
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ref\ATM_Simple.dll
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\bin\Debug\net5.0\ATM_Simple.pdb
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.AssemblyInfo.cs
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.dll
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ref\ATM_Simple.dll
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.pdb
+C:\Users\user\source\repos\ATM_Simple\ATM_Simple\obj\Debug\net5.0\ATM_Simple.genruntimeconfig.cache
